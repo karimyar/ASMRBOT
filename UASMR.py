@@ -7,10 +7,10 @@ import time
 KEYWORDS = ['Unintentional', 'unintentional']
 def botlogin():
 	r = praw.Reddit(username = "_UASMR_",
-				password = "Kabul1995!",
-				client_id = "XKXLCX7xtAMlrQ",
-				client_secret = "t18Xxb7UPS2bELKSkfMs1BJU9m0",
-				user_agent = "yeet")
+				password = "******",
+				client_id = ""******",",
+				client_secret = ""******",",
+				user_agent = "Reposts from /r/asmr to /r/UnintentionalASMR")
 
 	print "Logged in.."
 	return r
